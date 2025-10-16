@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio/static/css/main.abe36c9d.css",
+    "main.css": "/Personal-Portfolio/static/css/main.fa2d21e0.css",
     "main.js": "/Personal-Portfolio/static/js/main.976c5a8e.js",
     "static/media/Myimg2.jpg": "/Personal-Portfolio/static/media/Myimg2.e4979352f01b94a1adf4.jpg",
     "static/media/Myimg.jpg": "/Personal-Portfolio/static/media/Myimg.48b8818a89f714133982.jpg",
@@ -11,11 +11,11 @@
     "static/media/project1.png": "/Personal-Portfolio/static/media/project1.7e031a6e571113b76491.png",
     "static/media/purduelogo1.svg": "/Personal-Portfolio/static/media/purduelogo1.302bb906d526dec2b48c8b912ac85c65.svg",
     "index.html": "/Personal-Portfolio/index.html",
-    "main.abe36c9d.css.map": "/Personal-Portfolio/static/css/main.abe36c9d.css.map",
+    "main.fa2d21e0.css.map": "/Personal-Portfolio/static/css/main.fa2d21e0.css.map",
     "main.976c5a8e.js.map": "/Personal-Portfolio/static/js/main.976c5a8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.abe36c9d.css",
+    "static/css/main.fa2d21e0.css",
     "static/js/main.976c5a8e.js"
   ]
 }
