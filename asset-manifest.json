@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/Personal-Portfolio/static/css/main.dec670db.css",
-    "main.js": "/Personal-Portfolio/static/js/main.43cc7b19.js",
+    "main.css": "/Personal-Portfolio/static/css/main.e29cf72b.css",
+    "main.js": "/Personal-Portfolio/static/js/main.5dbca752.js",
+    "static/media/Myimg2.jpg": "/Personal-Portfolio/static/media/Myimg2.e4979352f01b94a1adf4.jpg",
+    "static/media/Myimg.jpg": "/Personal-Portfolio/static/media/Myimg.48b8818a89f714133982.jpg",
+    "static/media/project2.png": "/Personal-Portfolio/static/media/project2.d29c64cc7a13bfaf88bb.png",
+    "static/media/project4.png": "/Personal-Portfolio/static/media/project4.e2907add5e37707c8843.png",
+    "static/media/indytechLogo.jpg": "/Personal-Portfolio/static/media/indytechLogo.d990ae09fbee732ce8a5.jpg",
+    "static/media/project3.png": "/Personal-Portfolio/static/media/project3.2f75f52f86d2ab80ffa5.png",
+    "static/media/project1.png": "/Personal-Portfolio/static/media/project1.7e031a6e571113b76491.png",
+    "static/media/purduelogo1.svg": "/Personal-Portfolio/static/media/purduelogo1.302bb906d526dec2b48c8b912ac85c65.svg",
     "index.html": "/Personal-Portfolio/index.html",
-    "main.dec670db.css.map": "/Personal-Portfolio/static/css/main.dec670db.css.map",
-    "main.43cc7b19.js.map": "/Personal-Portfolio/static/js/main.43cc7b19.js.map"
+    "main.e29cf72b.css.map": "/Personal-Portfolio/static/css/main.e29cf72b.css.map",
+    "main.5dbca752.js.map": "/Personal-Portfolio/static/js/main.5dbca752.js.map"
   },
   "entrypoints": [
-    "static/css/main.dec670db.css",
-    "static/js/main.43cc7b19.js"
+    "static/css/main.e29cf72b.css",
+    "static/js/main.5dbca752.js"
   ]
 }
